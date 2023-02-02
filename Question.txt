@@ -1,2 +1,0 @@
-examination class having function show taking two params name and reg number 
-take input from console and show the final output of a student
